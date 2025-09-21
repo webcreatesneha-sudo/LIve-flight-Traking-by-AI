@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Live Flight Tracker AI",
+  "description": "A sleek, real-time flight tracking application that displays live flight positions on an interactive map. Users can search for flights and view detailed information, including an AI-generated flight story for a creative touch.",
+  "requestFramePermissions": []
+}
